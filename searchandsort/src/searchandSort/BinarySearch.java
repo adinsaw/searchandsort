@@ -6,6 +6,7 @@ public class BinarySearch {
 	{
 		System.out.println("TEST");
 		System.out.println("TEST");
+		System.out.println("TEST");
 	}
 
 }
